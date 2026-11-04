@@ -1,0 +1,59 @@
+{
+  "notice": "SYNTHETIC DEMO \u2014 invented research records; no patient or customer data",
+  "projects": [
+    {
+      "id": "study-a",
+      "tenant": "demo-a",
+      "name": "Synthetic RNA Delivery Study",
+      "objective": "Compare invented laboratory delivery observations for a hackathon workflow.",
+      "phase": "Analysis",
+      "members": [
+        "lead-a",
+        "analyst-a"
+      ],
+      "team": [
+        {
+          "name": "Demo Research Lead",
+          "role": "Project Lead"
+        },
+        {
+          "name": "Demo Analyst",
+          "role": "Analysis"
+        }
+      ],
+      "tasks": [
+        {
+          "title": "Review synthetic assay",
+          "status": "Complete"
+        },
+        {
+          "title": "Check invented evidence",
+          "status": "In progress"
+        },
+        {
+          "title": "Draft demonstration report",
+          "status": "Open"
+        }
+      ],
+      "findings": [
+        "Invented sample A has a larger signal than invented sample B.",
+        "These synthetic observations establish no scientific or clinical claim."
+      ],
+      "documents": [
+        "Synthetic protocol outline",
+        "Invented assay table",
+        "Demo progress summary"
+      ]
+    },
+    {
+      "id": "study-b",
+      "tenant": "demo-b",
+      "name": "Other Fictional Tenant Study",
+      "objective": "Access-denial fixture only",
+      "members": [
+        "lead-b"
+      ],
+      "tasks": []
+    }
+  ]
+}
